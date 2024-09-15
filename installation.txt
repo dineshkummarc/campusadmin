@@ -1,0 +1,15 @@
+
+1. go to phpmyadmin
+2. create database name "campusadmin"
+3. import "campusadmin.sql"
+
+
+default user
+
+Admin login
+username: admin@admin.com
+password: admin@admin.com
+
+Student login
+username: dex@dex.com
+password: dex@dex.com
